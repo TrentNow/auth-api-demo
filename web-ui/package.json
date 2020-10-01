@@ -7,7 +7,7 @@
     "@blueprintjs/icons": "^2.2.1",
     "aws-amplify": "^0.4.8",
     "aws4": "^1.7.0",
-    "history": "^4.7.2",
+    "history": "^4.10.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-router-dom": "^4.3.1",
